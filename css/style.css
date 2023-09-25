@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(252, 252, 252);
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-size: 45px;
+}
+.tepa {
+  background-color: rgb(42, 41, 41);
+  padding: 10px;
+  text-align: center;
+}
+.tepa a {
+  text-decoration: none;
+  color: white;
+  font-family: Times New Roman;
+  padding: 10px;
+}
+.but button {
+  background-color: rgb(48, 177, 100);
+  padding: 10px;
+  margin: 2px;
+  color: white;
+  font-size: 20px;
+}
+.orta {
+  background-color: rgb(207, 232, 224);
+}
+.orta button {
+  background-color: rgb(48, 177, 100);
+  padding: 10px;
+  margin: 2px;
+  color: white;
+  font-size: 20px;
+}
+
+.asosiy button {
+  background-color: rgb(48, 177, 100);
+  padding: 15px;
+  margin: 2px;
+  color: white;
+  font-size: 20px;
+}
